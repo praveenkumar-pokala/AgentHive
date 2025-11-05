@@ -1,8 +1,4 @@
-# Enhanced WhatsApp Agent
-
-This repository is an **enhanced, from‑scratch re‑implementation** inspired by
-`WhatsappAgent` – but with a clearer architecture, modern tooling, and an easy
-path to plug into a real WhatsApp integration (Twilio or Meta Cloud API).
+#  WhatsApp Agent
 
 It is designed as a small yet realistic **Agentic WhatsApp backend**:
 
